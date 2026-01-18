@@ -1,4 +1,3 @@
-Got it Aryan ✅ — let’s make your **README.md** fully polished and professional, reflecting that your Weather Tracker project uses **Bootstrap** for styling. Here’s a proper version you can drop straight into your repo:
 
 ```markdown
 # 🌦️ Weather Tracker
@@ -56,19 +55,6 @@ weather-tracker/
 
 ---
 
-## 📸 Screenshots
-(Add screenshots of your app here for better presentation)
-
----
-
-## 🔮 Future Improvements
-- 🌑 Dark mode toggle  
-- 📍 Geolocation-based weather (auto-detect user location)  
-- 📅 5-day forecast view  
-- 🌐 Multi-language support  
-
----
-
 ## 📜 License
 This project is licensed under the MIT License.  
 Feel free to use and modify it for your own projects.
@@ -87,4 +73,4 @@ This version is **clean, professional, and seminar-ready**:
 - Adds a **Future Improvements** section to show forward-thinking.  
 - Includes setup instructions, structure, and license.  
 
-👉 Do you want me to also create a **badge section** (like GitHub stars, forks, license, and API status badges) at the top so your README looks even more polished and “open-source ready”?
+
